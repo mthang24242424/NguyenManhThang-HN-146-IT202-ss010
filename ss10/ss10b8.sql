@@ -1,3 +1,4 @@
+USE social_network_pro;
 CREATE INDEX idx_user_gender
 ON users (gender);
 
